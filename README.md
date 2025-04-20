@@ -14,16 +14,16 @@ These can be puchased on **April 27th at 7am** EST!
 
 There are three different types of Lightning Lane:
 
-* **Lightning Lane SinglePass** - These are *per ride* for the most popular rides at the park. Each park has at least ONE of these (Magic Kingdom has 2).
+* **Lightning Lane SinglePass** - These are priced *per ride* for the most popular rides at the park. Each park has at least ONE of these (Magic Kingdom has 2).
 * **Lightning Lane MultiPass** - Most rides at the park fall under this category. The multipass allows you to schedule rides in advance and can be purchased 7 days prior to your trip for every park day of your trip.
 * **Lightning Lane PremierPass** - Is the most expensive option (upwards of $400 per person in some cases)... don't bother. 
 
 Pricing varies, but for *Lightning Lane Multipass* the totals are usually (per person):
 
-* Magic Kingdom: ~$35
-* EPCOT: ~$28
-* Hollywood Studios: ~$32
-* Animal Kingdom: ~$25
+* Magic Kingdom: *$29*
+* EPCOT: *$21*
+* Hollywood Studios: *$27*
+* Animal Kingdom: *$22*
 
 Some **stage shows** are also eligble for Lightning Lanes. Using reservation on a show grants you a better seat for the experience.
 
@@ -31,8 +31,8 @@ Some **stage shows** are also eligble for Lightning Lanes. Using reservation on 
 
 ### Individual Lightning Lane Ride(s)
 
-* Seven Dwarfs Mine Train (Roller Coaster)
-* TRON Lightcycle Run (Roller Coaster)
+* Seven Dwarfs Mine Train (Roller Coaster) *$12*
+* TRON Lightcycle Run (Roller Coaster) *$20*
 
 #### MultiPass Rides 
 
@@ -59,7 +59,7 @@ Some **stage shows** are also eligble for Lightning Lanes. Using reservation on 
 
 ### Individual Lightning Lane Ride(s)
 
-* Star Wars: Rise of the Resistance
+* Star Wars: Rise of the Resistance *$22*
 
 #### MultiPass Rides
 
@@ -83,7 +83,7 @@ Some **stage shows** are also eligble for Lightning Lanes. Using reservation on 
 
 ### Individual Lightning Lane Ride(s)
 
-* Guardians of the Galaxy: Cosmic Rewind (Roller Coaster)
+* Guardians of the Galaxy: Cosmic Rewind (Roller Coaster) *$17*
 
 #### MultiPass Rides
 
@@ -104,7 +104,7 @@ Some **stage shows** are also eligble for Lightning Lanes. Using reservation on 
 
 ### Individual Lightning Lane Ride(s)
 
-* Avatar: Flight of Passage
+* Avatar: Flight of Passage *$17*
 
 #### MultiPass Rides
 *(No Tier 1 Rides in Park)*
