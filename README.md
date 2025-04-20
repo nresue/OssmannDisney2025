@@ -28,23 +28,23 @@ Some **stage shows** are also eligble for Lightning Lanes. Using reservation on 
 #### MultiPass Rides 
 
 * Tier 1 Rides (Pick One)
- * Jungle Cruise 
- * Peter Pan's Flight
- * Space Mountain (Roller Coaster)
- * Tiana's Bayou Adventure (Water) (Recommended)
+  * Jungle Cruise 
+  * Peter Pan's Flight
+  * Space Mountain (Roller Coaster)
+  * Tiana's Bayou Adventure (Water) (Recommended)
 * Tier 2 Rides (Choose 2)
- * "it's a small world"
- * Buzz Lightyear's Space Ranger Spin
- * Dumbo the flying Elephant
- * Haunted Mansion
- * Mad Tea Party
- * Mickey's PhilharMagic (Show)
- * Monster's Inc Laugh Floor (Show)
- * Pirates of the Caribbean
- * The Barnstormer
- * The Many Adventures of Winnie the Pooh
- * Tomorrowland Speedway
- * Under the Sea - Journey of the Little Mermaid
+  * "it's a small world"
+  * Buzz Lightyear's Space Ranger Spin
+  * Dumbo the flying Elephant
+  * Haunted Mansion
+  * Mad Tea Party
+  * Mickey's PhilharMagic (Show)
+  * Monster's Inc Laugh Floor (Show)
+  * Pirates of the Caribbean
+  * The Barnstormer
+  * The Many Adventures of Winnie the Pooh
+  * Tomorrowland Speedway
+  * Under the Sea - Journey of the Little Mermaid
 
 ## Hollywood Studios
 
@@ -55,20 +55,20 @@ Some **stage shows** are also eligble for Lightning Lanes. Using reservation on 
 #### MultiPass Rides
 
 * Tier 1 Rides (Pick One)
- * Mickey & Minnie's Runaway Railway
- * Millenium Falcon: Smuggler's Run
- * Rock 'n' Roller Coaster Starring Aerosmith (Roller Coaster) (Last Chance to ride w/ Aerosmith)
- * Slinky Dog Dash (Roller Coaster) (Recommended)
+  * Mickey & Minnie's Runaway Railway
+  * Millenium Falcon: Smuggler's Run
+  * Rock 'n' Roller Coaster Starring Aerosmith (Roller Coaster) (Last Chance to ride w/ Aerosmith)
+  * Slinky Dog Dash (Roller Coaster) (Recommended)
 * Tier 2 Rides
- * Alien Swirling Saucers
- * For the First Time in Forever: A Frozen Sing-Along Celebration (Show)
- * Muppet*Vision 3D (Show) (Last chance ever, closing permanently in June!)
- * Star Tours - The Adventures Continue
- * The Twilight Zone Tower of Terror
- * Beauty and the Beast - Live on Stage (Show)
- * Disney Jr. Play and Dance! (Show)
- * Indiana Jones Epic Stunt Spectacular (Show)
- * Toy Story Mania!
+  * Alien Swirling Saucers
+  * For the First Time in Forever: A Frozen Sing-Along Celebration (Show)
+  * Muppet*Vision 3D (Show) (Last chance ever, closing permanently in June!)
+  * Star Tours - The Adventures Continue
+  * The Twilight Zone Tower of Terror
+  * Beauty and the Beast - Live on Stage (Show)
+  * Disney Jr. Play and Dance! (Show)
+  * Indiana Jones Epic Stunt Spectacular (Show)
+  * Toy Story Mania!
 
 ## EPCOT
 
@@ -79,17 +79,17 @@ Some **stage shows** are also eligble for Lightning Lanes. Using reservation on 
 #### MultiPass Rides
 
 * Tier 1 Rides (Pick One)
- * Soarin' Around the Word
- * Frozen Ever After 
- * Remy's Ratatouille Adventure
+  * Soarin' Around the Word
+  * Frozen Ever After 
+  * Remy's Ratatouille Adventure
 * Tier 2 Rides
- * Disney Pixar Short Film Festival (Show)
- * Journey Into Imagination with Figment
- * Living with the Land
- * Mission: SPACE
- * Spaceship Earth
- * The Seas with Nemo & Friends
- * Turtle Talk with Crush (Show)
+  * Disney Pixar Short Film Festival (Show)
+  * Journey Into Imagination with Figment
+  * Living with the Land
+  * Mission: SPACE
+  * Spaceship Earth
+  * The Seas with Nemo & Friends
+  * Turtle Talk with Crush (Show)
 
 ## Animal Kingdom
 
@@ -98,7 +98,7 @@ Some **stage shows** are also eligble for Lightning Lanes. Using reservation on 
 * Avatar: Flight of Passage
 
 #### MultiPass Rides
-*(No Tier 1 Rides in Park)
+*(No Tier 1 Rides in Park)*
 
 * DINOSAUR (Last chance! Closing permanently)
 * Expedition Everest - Legend of the Forbidden Mountain (Roller Coaster)
