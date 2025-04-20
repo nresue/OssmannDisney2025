@@ -1,5 +1,14 @@
 # Ossmann Disney 2025
 
+## Park Days
+
+* **Monday:** Magic Kingdom
+* **Tuesday:* Hollywood Studios
+* **Wednesday:* Rest - Dinner at the Polynesian Resort
+* **Thursday:** - EPCOT
+* **Friday:** - Animal Kingdom
+* **Saturday:** Rest
+
 # Lightning Lanes!
 These can be puchased on **April 27th at 7am** EST!
 
@@ -18,7 +27,7 @@ Pricing varies, but for *Lightning Lane Multipass* the totals are usually (per p
 
 Some **stage shows** are also eligble for Lightning Lanes. Using reservation on a show grants you a better seat for the experience.
 
-## Magic Kingdom
+## Magic Kingdom (Monday)
 
 ### Individual Lightning Lane Ride(s)
 
@@ -46,7 +55,7 @@ Some **stage shows** are also eligble for Lightning Lanes. Using reservation on 
   * Tomorrowland Speedway
   * Under the Sea - Journey of the Little Mermaid
 
-## Hollywood Studios
+## Hollywood Studios (Tuesday)
 
 ### Individual Lightning Lane Ride(s)
 
@@ -70,7 +79,7 @@ Some **stage shows** are also eligble for Lightning Lanes. Using reservation on 
   * Indiana Jones Epic Stunt Spectacular (Show)
   * Toy Story Mania!
 
-## EPCOT
+## EPCOT (Thursday)
 
 ### Individual Lightning Lane Ride(s)
 
@@ -91,7 +100,7 @@ Some **stage shows** are also eligble for Lightning Lanes. Using reservation on 
   * The Seas with Nemo & Friends
   * Turtle Talk with Crush (Show)
 
-## Animal Kingdom
+## Animal Kingdom (Friday)
 
 ### Individual Lightning Lane Ride(s)
 
