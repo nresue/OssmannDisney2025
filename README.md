@@ -3,8 +3,8 @@
 ## Park Days
 
 * **Monday:** Magic Kingdom
-* **Tuesday:* Hollywood Studios
-* **Wednesday:* Rest - Dinner at the Polynesian Resort
+* **Tuesday:** Hollywood Studios
+* **Wednesday:** Rest - Dinner at the Polynesian Resort
 * **Thursday:** - EPCOT
 * **Friday:** - Animal Kingdom
 * **Saturday:** Rest
