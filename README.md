@@ -18,7 +18,7 @@ There are three different types of Lightning Lane:
 * **Lightning Lane MultiPass** - Most rides at the park fall under this category. The multipass allows you to schedule rides in advance and can be purchased 7 days prior to your trip for every park day of your trip.
 * **Lightning Lane PremierPass** - Is the most expensive option (upwards of $400 per person in some cases)... don't bother. 
 
-Pricing varies, but for *Lightning Lane Multipass* the totals are usually (per person):
+Pricing varies, but for *Lightning Lane Multipass* the totals as of now are reportedly:
 
 * Magic Kingdom: *$29*
 * EPCOT: *$21*
