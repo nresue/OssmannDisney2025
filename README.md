@@ -68,7 +68,7 @@ Some **stage shows** are also eligble for Lightning Lanes. Using reservation on 
   * Millenium Falcon: Smuggler's Run
   * Rock 'n' Roller Coaster Starring Aerosmith (Roller Coaster) (Last Chance to ride w/ Aerosmith)
   * Slinky Dog Dash (Roller Coaster) (Recommended)
-* Tier 2 Rides
+* Tier 2 Rides (Choose 2)
   * Alien Swirling Saucers
   * For the First Time in Forever: A Frozen Sing-Along Celebration (Show)
   * Muppet*Vision 3D (Show) (Last chance ever, closing permanently in June!)
@@ -91,7 +91,7 @@ Some **stage shows** are also eligble for Lightning Lanes. Using reservation on 
   * Soarin' Around the Word
   * Frozen Ever After 
   * Remy's Ratatouille Adventure
-* Tier 2 Rides
+* Tier 2 Rides (Choose 2)
   * Disney Pixar Short Film Festival (Show)
   * Journey Into Imagination with Figment
   * Living with the Land
@@ -109,6 +109,7 @@ Some **stage shows** are also eligble for Lightning Lanes. Using reservation on 
 #### MultiPass Rides
 *(No Tier 1 Rides in Park)*
 
+(Choose 3)
 * DINOSAUR (Last chance! Closing permanently)
 * Expedition Everest - Legend of the Forbidden Mountain (Roller Coaster)
 * Feathered Friends in Flight (Show)
